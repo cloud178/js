@@ -12,7 +12,7 @@ basketball.sportsman = "LeBron"
 
 console.log(basketball.sportsman)
 
-// change country
+// change property
 basketball.country = "Canada"
 
 console.log(basketball.country)
@@ -20,6 +20,7 @@ console.log(basketball.country)
 console.log(basketball)
 console.log(`type of basketball is: ${typeof basketball}`)
 
+// delete property
 delete basketball.league
 
 console.log(basketball)
