@@ -24,3 +24,10 @@ console.log(`type of basketball is: ${typeof basketball}`)
 delete basketball.league
 
 console.log(basketball)
+
+const someStaff = "coach"
+
+basketball[someStaff] = "Kerr"
+
+console.log(basketball.coach)
+
