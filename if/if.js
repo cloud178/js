@@ -8,6 +8,7 @@ if (year == 2010) {
 
 year = 2010
 
+// the final else is not necessarily
 if (year == 2011) {
     console.log('hello');
 } else if (year > 2011) {
@@ -15,4 +16,6 @@ if (year == 2011) {
 } else {
     console.log(':(')
 }
+
+
 
