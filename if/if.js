@@ -17,5 +17,5 @@ if (year == 2011) {
     console.log(':(')
 }
 
-
+year == 1 ? console.log('yes') : console.log("no")
 
